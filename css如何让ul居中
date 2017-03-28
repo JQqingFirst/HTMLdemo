@@ -1,0 +1,18 @@
+具体示例：
+HTML代码
+<div id="links">
+  <ul>
+     <li><a href="#">关于倡萌</a></li>
+     <li><a href="#">广告合作</a></li>
+     <li><a href="#">版权声明</a></li>
+     <li><a href="#">联系倡萌</a></li>
+     <li><a href="#">友情链接</a></li>
+  </ul>
+</div>
+CSS样例
+
+#links {height:40px;}
+
+#links ul{text-align:center;list-style-type:none;}
+
+#links ul li{display:inline;}
